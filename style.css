@@ -15,9 +15,7 @@ a{
     padding: 0 20px;
 
 }
-img{
-    width: 500px;
-}
+
 #logo{
     font-size: 24px;
     font-weight: bold;
@@ -31,6 +29,30 @@ img{
     padding: 0; 
 
 }
-#main-haeder li{
+#main-header li{
     margin: 0 16px;
+}
+#main-header nav a{
+    color: rgb(185, 131, 31);
+    font-size: 20px;
+}
+#main-header nav a:hover{
+    color: rgb(228, 163, 44);
+}
+main h1{
+    text-align: center;
+    color: rgb(238, 164, 80);
+    font-size: 48px;
+}
+#latest-products{
+    width: 80%;
+    margin: 50px auto;
+
+}
+#latest-products ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.food-item img{
+ height: 240px;
 }
