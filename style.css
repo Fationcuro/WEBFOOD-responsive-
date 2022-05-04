@@ -27,5 +27,10 @@ img{
 #main-header ul{
     list-style: none;
     display: flex;
-    
+    margin: 0;
+    padding: 0; 
+
+}
+#main-haeder li{
+    margin: 0 16px;
 }
