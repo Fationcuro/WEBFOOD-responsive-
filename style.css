@@ -52,7 +52,11 @@ main h1{
 #latest-products ul{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 16px;
 }
-.food-item img{
+article img{
  height: 240px;
+ width: 100%;
+ object-fit: cover;
+
 }
