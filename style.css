@@ -10,5 +10,22 @@ a{
     height: 80px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    background-color: rgb(29, 26, 24);
+    padding: 0 20px;
+
+}
+img{
+    width: 500px;
+}
+#logo{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(238, 164, 80);
+    text-transform: uppercase;
+}
+#main-header ul{
+    list-style: none;
+    display: flex;
     
 }
