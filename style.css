@@ -53,6 +53,8 @@ main h1{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
+    margin: 0;
+    padding: 0; 
 }
 article img{
  height: 240px;
