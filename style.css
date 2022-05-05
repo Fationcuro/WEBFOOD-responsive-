@@ -68,8 +68,13 @@ article img{
 
 }
 .food-items-contet{
-    padding: 16px;
+   /* padding: 16px;*/
+   padding: 10%;
     text-align: center;
+}
+h2{
+/*font-size:200%;*/
+font-size: 2rem;
 }
 .btn{
     background-color: rgb(228, 157, 44);
