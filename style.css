@@ -83,7 +83,7 @@ article img{
 background-color: rgb(221, 134, 34);
 }
 
-@media(max-width:768px) {
+@media(max-width:480px) {
     #latest-products ul{
         grid-template-columns: 100%;
 
