@@ -56,9 +56,23 @@ main h1{
     margin: 0;
     padding: 0; 
 }
+.food-items{
+    background-color: rgb(228, 206, 182);
+    border-radius: 6px;
+    overflow: hidden;
+}
 article img{
  height: 240px;
  width: 100%;
  object-fit: cover;
 
+}
+.food-items-contet{
+    padding: 16px;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(228, 157, 44);
+    color: white;
+    border-radius: 4px;
 }
