@@ -75,4 +75,9 @@ article img{
     background-color: rgb(228, 157, 44);
     color: white;
     border-radius: 4px;
+    padding: 8px 24px;
+
+}
+.btn:hover{
+background-color: rgb(221, 134, 34);
 }
