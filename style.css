@@ -58,6 +58,11 @@ a{
     position: fixed;
     top: 0;
     left: 0;
+    display: none;
+}
+#side-drawer:target{
+    display: block;
+
 }
 #side-drawer ul{
     list-style: none;
